@@ -74,7 +74,7 @@ def load_from_file():
 
 
 def main():
-    load_from_file()  # 👈 Call it here first!
+    load_from_file()  
 
     while True:
         print("======== Student Record System =======")
